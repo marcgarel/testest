@@ -7,24 +7,16 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
+  - github: marcgarel  
+    name: Marc Garel
     initials: JD
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+    twitter: marcgarel
+    mastodon: marcgarel@ecoevo.social
+    mastodon-server: ecoevo.social
+    email: marc.garel@cnrs.fr
     affiliations:
       - Department of Something, University of Whatever
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
     corresponding: true
