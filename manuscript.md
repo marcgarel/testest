@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-14" />
   <meta name="citation_publication_date" content="2025-07-14" />
   <meta property="article:published_time" content="2025-07-14" />
-  <meta name="dc.modified" content="2025-07-14T15:21:15+00:00" />
-  <meta property="article:modified_time" content="2025-07-14T15:21:15+00:00" />
+  <meta name="dc.modified" content="2025-07-14T15:34:47+00:00" />
+  <meta property="article:modified_time" content="2025-07-14T15:34:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://marcgarel.github.io/testest/" />
   <meta name="citation_pdf_url" content="https://marcgarel.github.io/testest/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcgarel.github.io/testest/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/db371f3b7f3c66a04df94802dfd2211ffae2d6b3/" />
-  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/db371f3b7f3c66a04df94802dfd2211ffae2d6b3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/db371f3b7f3c66a04df94802dfd2211ffae2d6b3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/c8c4eac5c841cb284adb05e1fd689c1219f1bf1b/" />
+  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/c8c4eac5c841cb284adb05e1fd689c1219f1bf1b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/c8c4eac5c841cb284adb05e1fd689c1219f1bf1b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://marcgarel.github.io/testest/v/db371f3b7f3c66a04df94802dfd2211ffae2d6b3/))
+([permalink](https://marcgarel.github.io/testest/v/c8c4eac5c841cb284adb05e1fd689c1219f1bf1b/))
 was automatically generated
-from [marcgarel/testest@db371f3](https://github.com/marcgarel/testest/tree/db371f3b7f3c66a04df94802dfd2211ffae2d6b3)
+from [marcgarel/testest@c8c4eac](https://github.com/marcgarel/testest/tree/c8c4eac5c841cb284adb05e1fd689c1219f1bf1b)
 on July 14, 2025.
 </em></small>
 
@@ -121,6 +121,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 ## Abstract {.page_break_before}
 
 
+add some text in abstact ...
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
