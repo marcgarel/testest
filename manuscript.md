@@ -7,8 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2025-07-14'
 author-meta:
-- John Doe
-- Jane Roe
+- Marc Garel
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,31 +22,27 @@ header-includes: |
   <meta name="dc.date" content="2025-07-14" />
   <meta name="citation_publication_date" content="2025-07-14" />
   <meta property="article:published_time" content="2025-07-14" />
-  <meta name="dc.modified" content="2025-07-14T22:45:02+00:00" />
-  <meta property="article:modified_time" content="2025-07-14T22:45:02+00:00" />
+  <meta name="dc.modified" content="2025-07-14T22:52:19+00:00" />
+  <meta property="article:modified_time" content="2025-07-14T22:52:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Marc Garel" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="twitter:creator" content="@marcgarel" />
   <link rel="canonical" href="https://marcgarel.github.io/testest/" />
   <meta property="og:url" content="https://marcgarel.github.io/testest/" />
   <meta property="twitter:url" content="https://marcgarel.github.io/testest/" />
   <meta name="citation_fulltext_html_url" content="https://marcgarel.github.io/testest/" />
   <meta name="citation_pdf_url" content="https://marcgarel.github.io/testest/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcgarel.github.io/testest/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/e1eadff335ef460be80d276040938181493ebcfb/" />
-  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/e1eadff335ef460be80d276040938181493ebcfb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/e1eadff335ef460be80d276040938181493ebcfb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/" />
+  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://marcgarel.github.io/testest/v/e1eadff335ef460be80d276040938181493ebcfb/))
+([permalink](https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/))
 was automatically generated
-from [marcgarel/testest@e1eadff](https://github.com/marcgarel/testest/tree/e1eadff335ef460be80d276040938181493ebcfb)
+from [marcgarel/testest@defce77](https://github.com/marcgarel/testest/tree/defce77844dc7d5cd3304aba76cb6483a431108a)
 on July 14, 2025.
 </em></small>
 
@@ -82,38 +77,27 @@ on July 14, 2025.
 
 
 
-+ **John Doe**
-  <br>
++ **Marc Garel**
+  ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [marcgarel](https://github.com/marcgarel)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
+    [marcgarel](https://twitter.com/marcgarel)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [\@marcgarel@ecoevo.social@ecoevo.social](https://ecoevo.social/@marcgarel@ecoevo.social)
     <br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
-  </small>
-
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/marcgarel/testest/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Marc Garel \<marc.garel@cnrs.fr\>.
 
 
 :::
@@ -140,7 +124,7 @@ test je souhaiterai
 
 
 
-
+## New section 
 
 
 ## References {.page_break_before}
