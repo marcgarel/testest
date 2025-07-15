@@ -1,4 +1,11 @@
 content/01.abstract.md:4:abstact
+content/01.abstract.md:8:avec
+content/01.abstract.md:8:ça
+content/01.abstract.md:8:d'autre
+content/01.abstract.md:8:fais
+content/01.abstract.md:8:je
+content/01.abstract.md:8:marche
+content/01.abstract.md:8:voir
 content/02.main-text.md:1:Créatation
 content/02.main-text.md:1:d'un
 content/02.main-text.md:1:nouveau

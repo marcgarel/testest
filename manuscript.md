@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-15" />
   <meta name="citation_publication_date" content="2025-07-15" />
   <meta property="article:published_time" content="2025-07-15" />
-  <meta name="dc.modified" content="2025-07-15T10:55:25+00:00" />
-  <meta property="article:modified_time" content="2025-07-15T10:55:25+00:00" />
+  <meta name="dc.modified" content="2025-07-15T11:03:48+00:00" />
+  <meta property="article:modified_time" content="2025-07-15T11:03:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://marcgarel.github.io/testest/" />
   <meta name="citation_pdf_url" content="https://marcgarel.github.io/testest/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcgarel.github.io/testest/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/" />
-  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/bda9e5466e4b83f5f21ab901387ff93ffefb344d/" />
+  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/bda9e5466e4b83f5f21ab901387ff93ffefb344d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/bda9e5466e4b83f5f21ab901387ff93ffefb344d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/))
+([permalink](https://marcgarel.github.io/testest/v/bda9e5466e4b83f5f21ab901387ff93ffefb344d/))
 was automatically generated
-from [marcgarel/testest@4ed8330](https://github.com/marcgarel/testest/tree/4ed83308c5606a94265d77ce7ea076c4404a5d76)
+from [marcgarel/testest@bda9e54](https://github.com/marcgarel/testest/tree/bda9e5466e4b83f5f21ab901387ff93ffefb344d)
 on July 15, 2025.
 </em></small>
 
@@ -109,6 +109,8 @@ Marc Garel \<marc.garel@cnrs.fr\>.
 add some text in abstact ...
 
 ![ORCID icon](images/orcid.svg){height="13px"}
+
+je fais d'autre test pour voir si ça marche avec un pull request 
 
 
 ## Créatation d'un nouveau text {.page_break_before}
