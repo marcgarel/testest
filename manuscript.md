@@ -1,11 +1,11 @@
 ---
-title: Manuscript Title
+title: Test du set up d'écriture avec gitHub
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-07-14'
+date-meta: '2025-07-15'
 author-meta:
 - Marc Garel
 header-includes: |
@@ -15,15 +15,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-07-14" />
-  <meta name="citation_publication_date" content="2025-07-14" />
-  <meta property="article:published_time" content="2025-07-14" />
-  <meta name="dc.modified" content="2025-07-14T22:52:19+00:00" />
-  <meta property="article:modified_time" content="2025-07-14T22:52:19+00:00" />
+  <meta name="dc.title" content="Test du set up d&#39;écriture avec gitHub" />
+  <meta name="citation_title" content="Test du set up d&#39;écriture avec gitHub" />
+  <meta property="og:title" content="Test du set up d&#39;écriture avec gitHub" />
+  <meta property="twitter:title" content="Test du set up d&#39;écriture avec gitHub" />
+  <meta name="dc.date" content="2025-07-15" />
+  <meta name="citation_publication_date" content="2025-07-15" />
+  <meta property="article:published_time" content="2025-07-15" />
+  <meta name="dc.modified" content="2025-07-15T10:55:25+00:00" />
+  <meta property="article:modified_time" content="2025-07-15T10:55:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://marcgarel.github.io/testest/" />
   <meta name="citation_pdf_url" content="https://marcgarel.github.io/testest/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcgarel.github.io/testest/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/" />
-  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/" />
+  <meta name="manubot_html_url_versioned" content="https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,10 +65,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://marcgarel.github.io/testest/v/defce77844dc7d5cd3304aba76cb6483a431108a/))
+([permalink](https://marcgarel.github.io/testest/v/4ed83308c5606a94265d77ce7ea076c4404a5d76/))
 was automatically generated
-from [marcgarel/testest@defce77](https://github.com/marcgarel/testest/tree/defce77844dc7d5cd3304aba76cb6483a431108a)
-on July 14, 2025.
+from [marcgarel/testest@4ed8330](https://github.com/marcgarel/testest/tree/4ed83308c5606a94265d77ce7ea076c4404a5d76)
+on July 15, 2025.
 </em></small>
 
 
